@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ohexoo7
+- 👀 I’m interested in Sports
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Modding
+- 📫 How to reach me ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like turtles.
